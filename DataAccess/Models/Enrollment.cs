@@ -11,10 +11,10 @@ namespace DataAccess.Models
         public int EnrollmentId { get; set; }
 
         public int CourseId { get; set; }
-        public Course Course { get; set; }
+        public virtual Course? Course { get; set; }
 
         public int UserId { get; set; }
-        public User User { get; set; }
+        public virtual User? User { get; set; }
 
         public DateTime EnrollmentDate { get; set; } = DateTime.UtcNow;
     }

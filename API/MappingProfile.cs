@@ -9,7 +9,9 @@ namespace API
         public MappingProfile()
         {
             // Course mapping
-            CreateMap<Course, CourseDto>();
+            CreateMap<Course, CourseDto>()
+                .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.CategoryName))
+                .ForMember(dest => dest.Author, opt => opt.MapFrom(src => src.User.Email));
             CreateMap<CreateCourseDto, Course>();
             CreateMap<UpdateCourseDto, Course>();
 
@@ -27,6 +29,10 @@ namespace API
             //CreateMap<Enrollment, EnrollmentDto>();
             //CreateMap<CreateEnrollmentDto, Enrollment>();
             //CreateMap<UpdateEnrollmentDto, Enrollment>();
+
+            CreateMap<EnrollmentDto, Enrollment>();
+            CreateMap<Enrollment, EnrollmentDto>();
+
         }
     }
 }

@@ -1,0 +1,32 @@
+@page
+@model ClientWeb.Pages.CoursesModel
+@{
+    ViewData["Title"] = "Courses";
+}
+
+<h2>Courses</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Category Name</th>
+            <th>Author</th>
+            <th>Description</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var course in Model.Courses)
+    {
+        <tr>
+            <td>@course.Title</td>
+            <td>@course.CategoryName</td>
+            <td>@course.Author</td>
+            <td>@course.Description</td>
+            <td>
+                <a class="btn btn-primary" href="/Courses/Details/@course.CourseId">View Details</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table> 

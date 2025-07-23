@@ -20,6 +20,16 @@ namespace Repositories.Implements
             _context = context;
         }
 
+        public async override Task<IEnumerable<Course>> GetAllAsync()
+        {
+            return await _context.Courses.Include(x => x.Category).Include(x => x.User).ToListAsync();
+        }
+
+        public async override Task<Course?> GetByIdAsync(object id)
+        {
+            return await _context.Courses.Include(x => x.Category).Include(x => x.User).FirstOrDefaultAsync(x => x.CourseId == (int) id);
+        }
+
         public async Task<IEnumerable<Course>> GetByCategoryIdAsync(int categoryId)
         {
             return await _context.Courses

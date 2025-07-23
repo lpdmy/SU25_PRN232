@@ -3,16 +3,100 @@
   "WorkspaceRootPath": "D:\\PE_SU2025\\SU25_PRN232\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|d:\\pe_su2025\\su25_prn232\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|d:\\pe_su2025\\su25_prn232\\dataaccess\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5E9635-DDE7-410C-B1B1-60353CC74ACB}|ClientWeb\\ClientWeb.csproj|d:\\pe_su2025\\su25_prn232\\clientweb\\pages\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5E9635-DDE7-410C-B1B1-60353CC74ACB}|ClientWeb\\ClientWeb.csproj|solutionrelative:clientweb\\pages\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|d:\\pe_su2025\\su25_prn232\\repositories\\implements\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|d:\\pe_su2025\\su25_prn232\\repositories\\implements\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5E9635-DDE7-410C-B1B1-60353CC74ACB}|ClientWeb\\ClientWeb.csproj|d:\\pe_su2025\\su25_prn232\\clientweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5E9635-DDE7-410C-B1B1-60353CC74ACB}|ClientWeb\\ClientWeb.csproj|solutionrelative:clientweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5E9635-DDE7-410C-B1B1-60353CC74ACB}|ClientWeb\\ClientWeb.csproj|d:\\pe_su2025\\su25_prn232\\clientweb\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5E9635-DDE7-410C-B1B1-60353CC74ACB}|ClientWeb\\ClientWeb.csproj|solutionrelative:clientweb\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|d:\\pe_su2025\\su25_prn232\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|d:\\pe_su2025\\su25_prn232\\dataaccess\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|d:\\pe_su2025\\su25_prn232\\services\\implements\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|solutionrelative:services\\implements\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|d:\\pe_su2025\\su25_prn232\\services\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\dtos\\edmmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\dtos\\edmmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\controllers\\courseodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\controllers\\courseodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|d:\\pe_su2025\\su25_prn232\\services\\implements\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +107,8 @@
       "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|d:\\pe_su2025\\su25_prn232\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Migrations\\20250723144344_AddCategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20250723144344_AddCategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|d:\\pe_su2025\\su25_prn232\\dataaccess\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|d:\\pe_su2025\\su25_prn232\\dataaccess\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Migrations\\20250723144050_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20250723144050_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Migrations\\20250723143840_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,28 +119,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20250723143639_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|d:\\pe_su2025\\su25_prn232\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|d:\\pe_su2025\\su25_prn232\\repositories\\implements\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|d:\\pe_su2025\\su25_prn232\\repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A61D47-4F1C-48D2-B7C1-ECFCC3679D94}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99EF89A1-0178-4EE0-B0FB-92A8D30F9740}|API\\API.csproj|d:\\pe_su2025\\su25_prn232\\api\\dtos\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,14 +139,6 @@
       "RelativeMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|solutionrelative:services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|d:\\pe_su2025\\su25_prn232\\services\\implements\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|solutionrelative:services\\implements\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|d:\\pe_su2025\\su25_prn232\\services\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|d:\\pe_su2025\\su25_prn232\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|solutionrelative:services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -117,6 +153,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|d:\\pe_su2025\\su25_prn232\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4610DF2-50F8-4264-9243-139FE90DC6AF}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|d:\\pe_su2025\\su25_prn232\\dataaccess\\migrations\\20250723144344_addcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250723144344_addcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|d:\\pe_su2025\\su25_prn232\\dataaccess\\migrations\\20250723144050_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D495A3-CB9F-4A35-ADEA-B3C86CA080F8}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250723144050_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,37 +170,284 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\CourseController.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "API\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwEsAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:28:57.825Z",
+              "WhenOpened": "2025-07-23T15:53:53.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T15:27:04.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Implements\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implements\\CourseRepository.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Implements\\CourseRepository.cs",
+              "RelativeToolTip": "Repositories\\Implements\\CourseRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:32:31.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\CourseDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\CourseDto.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\CourseDto.cs",
+              "RelativeToolTip": "API\\Dtos\\CourseDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:20:52.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Models\\Course.cs",
               "RelativeDocumentMoniker": "DataAccess\\Models\\Course.cs",
               "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Models\\Course.cs",
               "RelativeToolTip": "DataAccess\\Models\\Course.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAsAAAAbAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAA7wB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T14:39:04.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseDetails.cshtml",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\ClientWeb\\Pages\\CourseDetails.cshtml",
+              "RelativeDocumentMoniker": "ClientWeb\\Pages\\CourseDetails.cshtml",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\ClientWeb\\Pages\\CourseDetails.cshtml",
+              "RelativeToolTip": "ClientWeb\\Pages\\CourseDetails.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T15:44:24.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAswGIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:38:15.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Implements\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implements\\Repository.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Implements\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Implements\\Repository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:33:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Implements\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Implements\\EnrollmentService.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Implements\\EnrollmentService.cs",
+              "RelativeToolTip": "Services\\Implements\\EnrollmentService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:06:30.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\ClientWeb\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClientWeb\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\ClientWeb\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ClientWeb\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T15:37:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Courses.cshtml.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\ClientWeb\\Pages\\Courses.cshtml.cs",
+              "RelativeDocumentMoniker": "ClientWeb\\Pages\\Courses.cshtml.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\ClientWeb\\Pages\\Courses.cshtml.cs",
+              "RelativeToolTip": "ClientWeb\\Pages\\Courses.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:37:54.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "API\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:28:57.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:33:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnrollmentDto.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\EnrollmentDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\EnrollmentDto.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\EnrollmentDto.cs",
+              "RelativeToolTip": "API\\Dtos\\EnrollmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:11:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "API.http",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-23T15:26:59.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Models\\Enrollment.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:37:33.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "API\\MappingProfile.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\MappingProfile.cs",
+              "RelativeToolTip": "API\\MappingProfile.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:22:38.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T14:35:29.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "API\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:11:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Interfaces\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEnrollmentService.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Interfaces\\IEnrollmentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEnrollmentService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:06:20.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:00:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "CreateCourseDto.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\CreateCourseDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\CreateCourseDto.cs",
@@ -169,33 +460,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAswGMAAAAOAAAA",
+              "DocumentIndex": 20,
+              "Title": "EdmModelBuilder.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\EdmModelBuilder.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\EdmModelBuilder.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\EdmModelBuilder.cs",
+              "RelativeToolTip": "API\\Dtos\\EdmModelBuilder.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:38:15.921Z",
+              "WhenOpened": "2025-07-23T15:02:43.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Enrollment.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Models\\Enrollment.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\Enrollment.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Models\\Enrollment.cs",
-              "RelativeToolTip": "DataAccess\\Models\\Enrollment.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentIndex": 23,
+              "Title": "CourseODataController.cs",
+              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\CourseODataController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CourseODataController.cs",
+              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Controllers\\CourseODataController.cs",
+              "RelativeToolTip": "API\\Controllers\\CourseODataController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:37:33.895Z",
+              "WhenOpened": "2025-07-23T14:59:56.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 24,
               "Title": "CourseService.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Implements\\CourseService.cs",
               "RelativeDocumentMoniker": "Services\\Implements\\CourseService.cs",
@@ -203,25 +494,11 @@
               "RelativeToolTip": "Services\\Implements\\CourseService.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAYwCYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:05:41.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:05:41.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseDto.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\CourseDto.cs",
-              "RelativeDocumentMoniker": "API\\Dtos\\CourseDto.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\CourseDto.cs",
-              "RelativeToolTip": "API\\Dtos\\CourseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:20:52.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Models\\User.cs",
               "RelativeDocumentMoniker": "DataAccess\\Models\\User.cs",
@@ -229,12 +506,11 @@
               "RelativeToolTip": "DataAccess\\Models\\User.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAYwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:45:49.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:45:49.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 38,
               "Title": "20250723144344_AddCategories.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Migrations\\20250723144344_AddCategories.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250723144344_AddCategories.cs",
@@ -242,12 +518,11 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20250723144344_AddCategories.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:43:44.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:43:44.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Models\\Category.cs",
               "RelativeDocumentMoniker": "DataAccess\\Models\\Category.cs",
@@ -255,12 +530,11 @@
               "RelativeToolTip": "DataAccess\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:45:04.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:45:04.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "20250723143840_InitialMigration.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Migrations\\20250723143840_InitialMigration.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250723143840_InitialMigration.cs",
@@ -268,12 +542,11 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20250723143840_InitialMigration.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:38:40.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:38:40.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 39,
               "Title": "20250723144050_InitialMigration.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Migrations\\20250723144050_InitialMigration.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250723144050_InitialMigration.cs",
@@ -281,12 +554,11 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20250723144050_InitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:40:50.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:40:50.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "20250723143639_InitialMigration.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\DataAccess\\Migrations\\20250723143639_InitialMigration.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250723143639_InitialMigration.cs",
@@ -294,25 +566,11 @@
               "RelativeToolTip": "DataAccess\\Migrations\\20250723143639_InitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:36:40.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:36:40.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-23T14:35:29.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Implements\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\CategoryRepository.cs",
@@ -320,51 +578,11 @@
               "RelativeToolTip": "Repositories\\Implements\\CategoryRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAvwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:29:24.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:29:24.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:33:08.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Implements\\Repository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\Repository.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Repositories\\Implements\\Repository.cs",
-              "RelativeToolTip": "Repositories\\Implements\\Repository.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwDcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:33:10.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "API\\MappingProfile.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\MappingProfile.cs",
-              "RelativeToolTip": "API\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:22:38.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "UpdateCourseDto.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\UpdateCourseDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\UpdateCourseDto.cs",
@@ -372,12 +590,11 @@
               "RelativeToolTip": "API\\Dtos\\UpdateCourseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:21:26.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:21:26.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\LoginDto.cs",
@@ -385,25 +602,11 @@
               "RelativeToolTip": "API\\Dtos\\LoginDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:13:13.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:13:13.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:00:58.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Implements\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\Implements\\UserService.cs",
@@ -411,12 +614,11 @@
               "RelativeToolTip": "Services\\Implements\\UserService.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:15:45.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:15:45.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\API\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\UserDto.cs",
@@ -424,38 +626,11 @@
               "RelativeToolTip": "API\\Dtos\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:12:04.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:12:04.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "EnrollmentService.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Implements\\EnrollmentService.cs",
-              "RelativeDocumentMoniker": "Services\\Implements\\EnrollmentService.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Implements\\EnrollmentService.cs",
-              "RelativeToolTip": "Services\\Implements\\EnrollmentService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:06:30.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IEnrollmentService.cs",
-              "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Interfaces\\IEnrollmentService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IEnrollmentService.cs",
-              "ToolTip": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Interfaces\\IEnrollmentService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IEnrollmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:06:20.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Implements\\CategoryService.cs",
               "RelativeDocumentMoniker": "Services\\Implements\\CategoryService.cs",
@@ -463,12 +638,11 @@
               "RelativeToolTip": "Services\\Implements\\CategoryService.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAcwBcAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:06:07.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:06:07.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ICategoryService.cs",
@@ -476,12 +650,11 @@
               "RelativeToolTip": "Services\\Interfaces\\ICategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:05:56.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:05:56.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "ICourseService.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Interfaces\\ICourseService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ICourseService.cs",
@@ -489,12 +662,11 @@
               "RelativeToolTip": "Services\\Interfaces\\ICourseService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:05:27.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:05:27.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\PE_SU2025\\SU25_PRN232\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
@@ -502,8 +674,7 @@
               "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:04:41.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T14:04:41.014Z"
             }
           ]
         }
